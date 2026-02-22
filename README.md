@@ -16,6 +16,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-2F4F4F?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 <!---
