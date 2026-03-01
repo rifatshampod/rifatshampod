@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F6EB4&center=true&vCenter=true&width=650&lines=Rifat+Bin+Monsur;Full-Stack+Architect+%26+Product+Builder;Founder+of+Evolve+Softwares;Founding+Solution+Architect+of+Evocation+IT;SaaS+%7C+Cloud+%7C+AI-Driven+Applications;Turning+Complex+Ideas+Into+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F6EB4&center=true&vCenter=true&width=650&lines=Rifat+Bin+Monsur;Full-Stack+Architect+%26+Product+Builder;Open+Source+Developer;Founding+Solution+Architect+of+Evocation+IT;SaaS+%7C+Cloud+%7C+AI-Driven+Applications;Turning+Complex+Ideas+Into+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 ### 👨‍💻 Present, Shaped by the Past
