@@ -3,8 +3,7 @@
 </div>
 
 ### 👨‍💻 Present, Shaped by the Past
-<!---
-- 🏗️ Founder & Software Architect at Evocation IT — designing and delivering scalable SaaS and enterprise systems across EU & Asia --->
+- 🏗️ Designing and delivering Laravel based scalable SaaS systems across EU & Asia
 - 🤖 Building production-grade AI systems using RAG pipelines, Azure AI services, and agentic architectures
 - ☁️ Deploying and managing cloud-native applications on Azure & Ubuntu VPS environments
 - 🧠 Special focus: AI-assisted workflows, LLM integrations (Ollama, GPT-based systems), and intelligent automation
