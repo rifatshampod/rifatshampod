@@ -8,6 +8,24 @@
 - ☁️ Deploying and managing cloud-native applications on Azure & Ubuntu VPS environments
 - 🧠 Special focus: AI-assisted workflows, LLM integrations (Ollama, GPT-based systems), and intelligent automation
 
+<br clear="left"/>
+
+### 🏆 Certification
+
+<p align="left">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/rifatshampod/A9C435CE2112A000?sharingId=C796384859342312">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="110" align="left" alt="Microsoft Certified: Azure AI Engineer Associate"/>
+  </a>
+</p>
+
+**Microsoft Certified: Azure AI Engineer Associate (AI-102)**  
+Expertise in Azure AI Foundry, Azure OpenAI, Azure AI Search, RAG pipelines, Prompt Flow, AI Agents, and production-grade Generative AI applications.
+
+**[🔗 Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/rifatshampod/A9C435CE2112A000?sharingId=C796384859342312)**
+
+<br clear="left"/>
+
+
 ### 💼 Key Skills
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,12 +43,14 @@
 - **Local LLM Coding Agent**: Ollama-based setup for PHP/JS workflows [user interests]
 - **Startup Product Sourcing**: Research on Health/Beauty markets for Bangladesh-Finland sales [user interests]
 --->
+<br clear="left"/>
 
 ### 📊 GitHub Stats
 <div align="center">
  <img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifatshampod&theme=radical" alt="stats" />
  <img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=rifatshampod&theme=radical&hide_border=true" alt="streak" />
 </div>
+<br clear="left"/>
 
 ### 🌐 Connect With Me
 
