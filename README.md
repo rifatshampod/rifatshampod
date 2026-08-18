@@ -27,16 +27,14 @@ Expertise in Azure AI Foundry, Azure OpenAI, Azure AI Search, RAG pipelines, Pro
 
 <p align="left">
   <a href="https://www.credly.com/badges/7b14637e-a788-448d-972f-6070a8b6dcf9/linked_in?t=tjyncv">
-    <img src="/google-ai-professional-certificate.png" width="110" align="left" alt="Google AI Professional Certificate"/>
+    <img src="https://github.com/rifatshampod/rifatshampod/blob/main/google-ai-professional-certificate.png" width="110" align="left" alt="Google AI Professional Certificate"/>
   </a>
 </p>
 
 **Google AI Professional Certificate**  
-Fluent in AI with demonstrated ability to apply AI to Brainstorming, Research, Communication, Content Creation, Data Analysis, and Coding. Built 20+ AI artifacts, vibe coded custom AI solutions, and practice responsible AI usage to solve real workplace challenges.
+Expertise in AI-driven Brainstorming, Research, Communication, Content Creation, Data Analysis, and Coding. Built 20+ AI artifacts and custom AI solutions with responsible AI practices.
 
 **[🔗 Verify Credential](https://www.credly.com/badges/7b14637e-a788-448d-972f-6070a8b6dcf9/linked_in?t=tjyncv)**
-
-<br clear="left"/>
 
 
 ### 💼 Key Skills
